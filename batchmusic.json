@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Marilia Mendonca"},
+                  "SongTitle": {"S": "De quem e a culpa"},
+                  "AlbumTitle": {"S": "Realidade"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Marilia Mendonca"},
+                  "SongTitle": {"S": "Leao"},
+                  "AlbumTitle": {"S": "Decretos reais"},
+                  "SongYear": {"S": "2023"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Marilia Mendonca"},
+                  "SongTitle": {"S": "Todo mundo vai sofrer"},
+                  "AlbumTitle": {"S": "Todos os cantos"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }
+      ]
+}
